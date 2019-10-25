@@ -1,0 +1,3 @@
+﻿@echo off
+echo Mise en service du bot discord Hosty en cours...
+node hosty.js
